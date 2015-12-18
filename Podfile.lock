@@ -1,0 +1,10 @@
+PODS:
+  - TBIconTransitionKit (1.0.1)
+
+DEPENDENCIES:
+  - TBIconTransitionKit
+
+SPEC CHECKSUMS:
+  TBIconTransitionKit: ef4316545073afc98a1d8a6a31f8f521a2578d6a
+
+COCOAPODS: 0.39.0
